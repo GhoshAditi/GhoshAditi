@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning MERN stack<br>🎯 Goals: Evolve as a pro Web Developer</p>
+<p align="left">✨ Contributing to Open Source since 2023<br>📚 I'm currently learning MERN stack<br>🎯 Goals: Evolve as a pro Web Developer</p>
 
 ###
 
