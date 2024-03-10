@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Aditi and I'm a Frontend Developer, from Kolkata</h2>
+<h2 align="left">Hi 👋! My name is Aditi and I'm a Frontend Developer, from KOlkata</h2>
 
 ###
 
@@ -53,6 +53,9 @@
   <a href="mailto:aditighosh404@outlook.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
+ <a href="https://www.codechef.com/users/ghoshaditi" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Codechef&logo=codechef&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codechef logo"  />
+  </a>
 </div>
 
 ###
@@ -78,12 +81,16 @@
 
 ###
 
-<br clear="both">
-
 <img align="right" height="150" src="https://camo.githubusercontent.com/c601c423b5c47663833383ffcd2278152880feda5803890d7c8ae56c67331106/68747470733a2f2f77302e7065616b70782e636f6d2f77616c6c70617065722f3737322f3535322f48442d77616c6c70617065722d62656175746966756c2d616e696d652d6769726c2d7261696e696e672d756d6272656c6c612d707572706c652d657965732d626c75652d666c6f776572732d616e696d652e6a7067"  />
 
 ###
 
 <img align="left" height="150" src="https://pa1.narvii.com/6481/5bc1a43c2fdd0d83e10b3a5f78dc2e6ce3dc867a_hq.gif"  />
+
+###
+
+<div align="center">
+  <img height="150" src="https://media.tenor.com/images/3c60ad2cfe0b428a6be9f5908ae0283f/tenor.gif"  />
+</div>
 
 ###
