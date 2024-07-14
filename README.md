@@ -15,6 +15,7 @@ Name = "Aditi Ghosh"
 Interests = ["Coding", "Problem Solving", "Designing", "Singing", "Swimming"]
 Languages = ["C", "C++", "Python", "HTML", "CSS", "Javascript" , "Typescript" , "TailwindCss"]
 Frameworks = ["ReactJs" , "NodeJs" , "NextJs"]
+Other Skills = ["Figma" , "Canva" ]
 
 ```
 
