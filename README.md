@@ -1,8 +1,27 @@
-<h2 align="left">Hi 👋! My name is Aditi and I'm a Frontend Developer, from Kolkata</h2>
+<h2 align="left">Hi 👋! My name is Aditi and I'm a Frontend Developer as well as a UI/UX Developer, from Kolkata</h2>
 
 ###
+![ ](https://komarev.com/ghpvc/?username=GhoshAditi&color=blue)
+</a>
+<a href="https://github.com/GhoshAditi?tab=followers"><img src="https://img.shields.io/github/followers/GhoshAditi?label=Followers&style=social" alt="GitHub Badge"></a>
+
+
+
+###
+<img align="right" height="115" src="https://pa1.narvii.com/6481/5bc1a43c2fdd0d83e10b3a5f78dc2e6ce3dc867a_hq.gif"  />
+
+```python
+Name = "Aditi Ghosh"
+Interests = ["Coding", "Problem Solving", "Designing", "Singing", "Swimming"]
+Languages = ["C", "C++", "Python", "HTML", "CSS", "Javascript" , "Typescript" , "TailwindCss"]
+Frameworks = ["ReactJs" , "NodeJs" , "NextJs"]
+
+```
+
+## Tech Stack that I use :
 
 <div align="left">
+  
   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
@@ -40,7 +59,7 @@
   <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="vercel logo"  />
 </div>
 
-###
+## Connect with me :
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=4evergurl&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -53,13 +72,16 @@
   <a href="mailto:aditighosh404@outlook.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
+   <a href="https://x.com/AditiGhosh77835?t=rfAfliZApKA5wF4to_Pw2A&s=08" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=0097B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
  <a href="https://www.codechef.com/users/ghoshaditi" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codechef&logo=codechef&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codechef logo"  />
   </a>
 </div>
 
 ###
-
+## Statistics
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/GhoshAditi/GhoshAditi/output/snake.svg" alt="Snake animation" />
@@ -79,18 +101,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GhoshAditi&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
 
-<img align="right" height="150" src="https://camo.githubusercontent.com/c601c423b5c47663833383ffcd2278152880feda5803890d7c8ae56c67331106/68747470733a2f2f77302e7065616b70782e636f6d2f77616c6c70617065722f3737322f3535322f48442d77616c6c70617065722d62656175746966756c2d616e696d652d6769726c2d7261696e696e672d756d6272656c6c612d707572706c652d657965732d626c75652d666c6f776572732d616e696d652e6a7067"  />
 
-###
 
-<img align="left" height="150" src="https://pa1.narvii.com/6481/5bc1a43c2fdd0d83e10b3a5f78dc2e6ce3dc867a_hq.gif"  />
 
-###
-
-<div align="center">
-  <img height="150" src="https://media.tenor.com/images/3c60ad2cfe0b428a6be9f5908ae0283f/tenor.gif"  />
-</div>
-
-###
