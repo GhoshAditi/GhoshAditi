@@ -103,9 +103,23 @@ Other Skills = ["Figma" , "Canva" ]
    </a>
 </div> 
 
+<div align=center>
+   <a href="https://github.com/GhoshAditi">
+   <img width=49% src="https://raw.githubusercontent.com/GhoshAditi/GhoshAditi/main/achievements.svg" />
+   
+</div>
+
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=GhoshAditi&theme=monokai&column=4&row=1&margin-w=4&margin-h=2&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=GhoshAditi&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+<div align=center>            
+   <a href="https://github.com/GhoshAditi">
+   <img width=100% height=100% align="center" alt="Coding" src="https://readme-typing-svg.herokuapp.com?font=Sora&color=e3d20c&center=true&vCenter=true&width=450%&lines=Shoutout+to+my+followers+!!!" />
+   <img width=100% height=100% align="center" alt="Followers" src="https://raw.githubusercontent.com/GhoshAditi/GhoshAditi/main/followers.svg" />
+   </a>
 </div>
 
 
