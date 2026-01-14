@@ -1,9 +1,19 @@
-<h2 align="left">Hi 👋! My name is Aditi and I'm a Frontend Developer as well as a UI/UX Developer, from Kolkata</h2>
-<p>https://aditi-ghosh.vercel.app/</p>
-###
-![ ](https://komarev.com/ghpvc/?username=GhoshAditi&color=blue)
-</a>
-<a href="https://github.com/GhoshAditi?tab=followers"><img src="https://img.shields.io/github/followers/GhoshAditi?label=Followers&style=social" alt="GitHub Badge"></a>
+<h2 align="left">
+  Hi 👋! My name is Aditi and I'm a Frontend Developer as well as a UI/UX Developer from Kolkata
+</h2>
+
+<p>
+  🌐 Portfolio: <a href="https://aditi-ghosh.vercel.app/" target="_blank">
+    https://aditi-ghosh.vercel.app/
+  </a>
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=GhoshAditi&color=blue" alt="Profile Views" />
+  <a href="https://github.com/GhoshAditi?tab=followers">
+    <img src="https://img.shields.io/github/followers/GhoshAditi?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+</p>
 
 
 
